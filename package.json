@@ -1,0 +1,54 @@
+{
+  "name": "ifai-inzynierka",
+  "main": "expo-router/entry",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest --watchAll"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.0",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-navigation/native": "^6.0.2",
+    "axios": "^1.6.8",
+    "expo": "~51.0.14",
+    "expo-font": "~12.0.5",
+    "expo-image-picker": "~15.0.5",
+    "expo-linking": "~6.3.1",
+    "expo-router": "~3.5.16",
+    "expo-splash-screen": "~0.27.5",
+    "expo-status-bar": "~1.12.1",
+    "expo-system-ui": "~3.0.6",
+    "expo-web-browser": "~13.0.3",
+    "firebase": "^10.10.0",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.74.2",
+    "react-native-gifted-chat": "^2.4.0",
+    "react-native-safe-area-context": "4.10.1",
+    "react-native-screens": "3.31.1",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-vector-icons": "^10.1.0",
+    "react-native-web": "~0.19.6",
+    "react-native-webview": "13.8.6",
+    "rn-fetch-blob": "^0.12.0",
+    "stream-browserify": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~18.2.79",
+    "jest": "^29.2.1",
+    "jest-expo": "~51.0.2",
+    "react-test-renderer": "18.2.0",
+    "tailwindcss": "^3.3.2",
+    "typescript": "~5.3.3"
+  },
+  "private": true
+}
