@@ -20,7 +20,7 @@
 
 ## Project Description 📜
 
-Welcome to the IFAI Chat Bot App repository! This project is a chat application that allows users to interact with various AI-powered personas, such as a yoga specialist, life coach, and more. The app leverages OpenAI's GPT-3.5-turbo/GPT-4 model to provide engaging and context-aware conversations.
+Welcome to the PersonAI repository! This project is a chat application that allows users to interact with various AI-powered personas, such as a yoga specialist, life coach, and more. The app leverages OpenAI's GPT-3.5-turbo/GPT-4 model to provide engaging and context-aware conversations.
 
 ## Screenshots 🌟
 
@@ -53,6 +53,7 @@ Welcome to the IFAI Chat Bot App repository! This project is a chat application 
 - **GiftedChat**: Customizable chat UI for React Native.
 
 ## Installation ⚙️
+Please use the .apk provided.
 
 ### Prerequisites ✅
 
