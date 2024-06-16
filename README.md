@@ -23,9 +23,9 @@
 Welcome to the IFAI Chat Bot App repository! This project is a chat application that allows users to interact with various AI-powered personas, such as a yoga specialist, life coach, and more. The app leverages OpenAI's GPT-3.5-turbo/GPT-4 model to provide engaging and context-aware conversations.
 
 ## Screenshots 🌟
-![slaj1light](https://github.com/WukerDev/PersonAI/assets/108416911/d6a7188a-545d-4733-a487-9d35cf5bd2be)
+![slaj1light](https://github.com/WukerDev/PersonAI/assets/108416911/d6a7188a-545d-4733-a487-9d35cf5bd2be | width=100)    ![slaj2light](https://github.com/WukerDev/PersonAI/assets/108416911/49d85481-8986-4f48-aad8-d368f538058b | width=100)
 
-![slaj2light](https://github.com/WukerDev/PersonAI/assets/108416911/49d85481-8986-4f48-aad8-d368f538058b)
+
 
 
 
